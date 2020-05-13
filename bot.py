@@ -11,7 +11,7 @@ token = os.getenv('DISCORD_TOKEN')
 #client = discord.Client()
 bot = commands.Bot(command_prefix='!')
 
-class Bot(commands.Bot):
+#class Bot(commands.Bot):
     
 
 # ------------------------------- Bot is ready ------------------------------- #
